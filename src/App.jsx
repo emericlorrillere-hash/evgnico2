@@ -60,7 +60,7 @@ const EVG_DATA = {
     highlights: [
       { icon: "🏋️", text: "CrossFit ou Karting Grand Prix" },
       { icon: "🍺", text: "Brewery crawl sous un moulin" },
-      { icon: "💡", Quartier rouge" },
+      { icon: "💡", text: "Quartier rouge" },
       { icon: "🎵", text: "Clubs techno légendaires" },
     ],
   },
